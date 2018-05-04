@@ -2,6 +2,7 @@
 Team number (e.g., 01) : 16
 #1 Submitter ID : 1427309
 #1 Submitter Name : Zhixu Wang
+Other Team Members: Eduardo Chavez, Gaoyang Wang
 
 
 
